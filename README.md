@@ -65,6 +65,8 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 
 ![Gitanimals Farm](https://render.gitanimals.org/farms/Nicholas-Tritsaris)
 
+![dailydev](https://app.daily.dev/nicholastrit)
+
 ---
 
 ## Links
