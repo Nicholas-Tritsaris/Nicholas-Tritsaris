@@ -24,23 +24,25 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 - **🔗 [Nicholas-Tritsaris.github.io](https://github.com/Nicholas-Tritsaris/Nicholas-Tritsaris.github.io)**  
   Personal site and experimental web playground.
 
-- **🧭 [Portal](https://github.com/Nicholas-Tritsaris/Portal)**  
+- **🧭 
+[Portal-WIP](https://github.com/Nicholas-Tritsaris/Portal)**  
   Retro-inspired web portal and link ecosystem.
 
-- **🌐 [Net-Atlas-Ultimate](https://github.com/Nicholas-Tritsaris/Net-Atlas-Ultimate)**  
+- **🌐 
+[Net-Atlas-Ultimate-WIP](https://github.com/Nicholas-Tritsaris/Net-Atlas-Ultimate)**  
   Interactive, neon-styled world / country web explorer.
 
-- **🏷️ [web-badges](https://github.com/Nicholas-Tritsaris/web-badges)**  
+- **🏷️ [web-badges-WIP](https://github.com/Nicholas-Tritsaris/web-badges)**  
   Collection of classic and custom web badges and buttons.
 
 ### Research & Utilities
-- **📡 [net-observation-project](https://github.com/Nicholas-Tritsaris/net-observation-project)**  
+- **📡 [net-observation-project-WIP](https://github.com/Nicholas-Tritsaris/net-observation-project)**  
   Internet observation, scanning, and documentation project.
 
-- **💾 [world-backuper](https://github.com/Nicholas-Tritsaris/world-backuper)**  
+- **💾 [world-backuper-WIP](https://github.com/Nicholas-Tritsaris/world-backuper)**  
   PowerShell-based backup utility.
 
-- **📘 [Science-notes](https://github.com/Nicholas-Tritsaris/Science-notes)**  
+- **📘 [Science-notes-WIP](https://github.com/Nicholas-Tritsaris/Science-notes)**  
   HTML-based technical and science notes archive.
 
 ### Other / Forked
