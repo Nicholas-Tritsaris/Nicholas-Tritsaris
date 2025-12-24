@@ -54,8 +54,12 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Tritsaris&show_icons=true&theme=dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nicholas-Tritsaris&theme=react-dark)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=dark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nicholas-Tritsaris&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nicholas-Tritsaris&theme=dark)
+![Followers](https://img.shields.io/github/followers/Nicholas-Tritsaris?style=social)
+![Stars](https://img.shields.io/github/stars/Nicholas-Tritsaris?style=social)
 
 ---
 
