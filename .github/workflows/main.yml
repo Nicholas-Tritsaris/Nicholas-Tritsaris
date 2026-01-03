@@ -147,9 +147,12 @@ jobs:
           plugin_wakatime_user: current
           
       # NEW STEP: Run gh-skyline as a separate workflow step
-      - name: Generate Skyline STL
-        run: |
-          gh extension install github/gh-skyline || echo "Extension already installed"
-          gh skyline stl --user Nicholas-Tritsaris --year 2025 --output skyline_2025.stl
-        env:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+- name: Generate Skyline GIF
+  run: |
+    gh extension install github/gh-skyline || echo "Extension already installed"
+    gh skyline gif \
+      --user Nicholas-Tritsaris \
+      --year 2025 \
+      --output skyline_2025.gif
+  env:
+    GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
