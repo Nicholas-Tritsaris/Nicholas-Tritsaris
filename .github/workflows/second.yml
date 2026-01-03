@@ -1,4 +1,3 @@
- # New Step: Upload stl to pages
 - name: Upload Skyline GIF
   uses: actions/upload-artifact@v3
   with:
