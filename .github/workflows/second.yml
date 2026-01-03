@@ -1,6 +1,6 @@
  # New Step: Upload stl to pages
-- name: Upload Skyline STL
+- name: Upload Skyline GIF
   uses: actions/upload-artifact@v3
   with:
-    name: skyline-stl
-    path: skyline_2025.stl
+    name: skyline-gif
+    path: skyline_2025.gif
