@@ -1,5 +1,0 @@
-- name: Upload Skyline GIF
-  uses: actions/upload-artifact@v3
-  with:
-    name: skyline-gif
-    path: skyline_2025.gif
