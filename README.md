@@ -5,8 +5,8 @@
 Independent developer focused on experimental web systems, networking research, retro-styled portals, and practical utilities.  
 I build public tools, documentation hubs, and exploratory projects that sit between infrastructure and creative computing.
 
-!Followers  
-!Stars
+![Followers](https://img.shields.io/github/followers/Nicholas-Tritsaris?style=social)
+![Stars](https://img.shields.io/github/stars/Nicholas-Tritsaris?style=social)
 
 ---
 
