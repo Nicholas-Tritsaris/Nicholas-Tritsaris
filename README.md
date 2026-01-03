@@ -2,6 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Nicholas-Tritsaris&label=Profile%20views&color=000000&style=flat" alt="Nicholas Tritsaris" />
 </p>
 
+![Followers](https://img.shields.io/github/followers/Nicholas-Tritsaris?style=social)
+![Stars](https://img.shields.io/github/stars/Nicholas-Tritsaris?style=social)
+
 # Nicholas Tritsaris
 
 Independent developer focused on experimental web systems, networking research, retro-styled portals, and practical utilities.  
@@ -54,10 +57,8 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nicholas-Tritsaris&theme=react-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nicholas-Tritsaris&theme=dark)
-![Followers](https://img.shields.io/github/followers/Nicholas-Tritsaris?style=social)
-![Stars](https://img.shields.io/github/stars/Nicholas-Tritsaris?style=social)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicholas-Tritsaris&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nicholas-Tritsaris&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
