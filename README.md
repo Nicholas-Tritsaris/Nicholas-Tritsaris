@@ -68,7 +68,7 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 
 ## Links
 
-- 🌐 Website: https://nicholas-tritsaris.github.io/  
+- 🌐 Website: https://blueboop.is-a.dev/  
 - 🧑‍💻 GitHub: https://github.com/Nicholas-Tritsaris  
 
 ---
