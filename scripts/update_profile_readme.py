@@ -1,6 +1,5 @@
 import os
-from github import Github
-from datetime import datetime
+from github import Github, Auth
 import re
 
 # ---------------------------
@@ -15,9 +14,9 @@ if not GITHUB_TOKEN:
     raise RuntimeError("GITHUB_TOKEN not set. Exiting.")
 
 # ---------------------------
-# Initialize GitHub client
+# Initialize GitHub client (new Auth.Token format)
 # ---------------------------
-g = Github(GITHUB_TOKEN)
+g = Github(auth=Auth.Token(GITHUB_TOKEN))
 user = g.get_user(USERNAME)
 repos = user.get_repos()
 
@@ -55,8 +54,12 @@ new_readme = re.sub(pattern, projects_section, readme_content, flags=re.DOTALL)
 # ---------------------------
 lang_counts = {}
 for repo in top_repos:
-    for lang, count in repo.get_languages().items():
-        lang_counts[lang] = lang_counts.get(lang, 0) + int(count)  # convert to int to avoid TypeError
+    languages = repo.get_languages()
+    for lang, count in languages.items():
+        try:
+            lang_counts[lang] = lang_counts.get(lang, 0) + int(count)  # ensure int
+        except (ValueError, TypeError):
+            print(f"Skipping invalid language count for {lang} in repo {repo.name}: {count}")
 
 # Sort languages by usage
 sorted_langs = sorted(lang_counts.items(), key=lambda x: x[1], reverse=True)
