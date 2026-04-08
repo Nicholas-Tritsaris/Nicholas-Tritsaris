@@ -21,25 +21,23 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 
 ---
 
-## Featured Projects
+## Projects Currently Working On
 
-### Web & Portals
-- **🔗 Nicholas-Tritsaris.github.io** — Personal site and experimental web playground  
-- **🧭 Portal-WIP** — Retro-inspired web portal and link ecosystem  
-- **🌐 Net-Atlas-Ultimate-WIP** — Interactive neon-styled world / country explorer  
-- **🏷️ web-badges-WIP** — Classic and custom web badges and buttons  
+- **🔗 Nicholas-Tritsaris** — No description provided.
+- **🔗 Nicholas-Tritsaris.github.io** — No description provided.
+- **🔗 register** — Grab your own sweet-looking '.is-a.dev' subdomain.
+- **🔗 Wikimedia** — No description provided.
+- **🔗 Docs** — No description provided.
+- **🔗 nicholas-tritsaris-api** — No description provided.
+- **🔗 WMLUP** — No description provided.
+- **🔗 Drone-Helmet** — No description provided.
+- **🔗 Windows-19584** — No description provided.
+- **🔗 Palm-cards** — No description provided.
 
-### Research & Utilities
-- **📡 net-observation-project-WIP** — Internet observation, scanning, and documentation  
-- **💾 world-backuper-WIP** — PowerShell-based backup utility  
-- **📘 Science-notes-WIP** — HTML-based science & technical notes archive  
+## Programming Languages Used
 
-### Other / Forked
-- **📛 register** — `.is-a.dev` registration fork  
-- **🎮 MCPropertyEncyclopedia** — Minecraft reference fork  
-- **🏆 github-achivements** — GitHub achievements & badges fork  
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square) ![C](https://img.shields.io/badge/-C-blue?style=flat-square) ![Makefile](https://img.shields.io/badge/-Makefile-blue?style=flat-square) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-blue?style=flat-square) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat-square)
 
----
 
 ## Stats
 
