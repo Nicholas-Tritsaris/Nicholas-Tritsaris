@@ -44,6 +44,11 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square) ![C](https://img.shields.io/badge/-C-blue?style=flat-square) ![Makefile](https://img.shields.io/badge/-Makefile-blue?style=flat-square) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-blue?style=flat-square) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat-square)
 
 
+## Programming Languages Used
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square) ![C](https://img.shields.io/badge/-C-blue?style=flat-square) ![Makefile](https://img.shields.io/badge/-Makefile-blue?style=flat-square) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-blue?style=flat-square) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat-square)
+
+
 ## Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nicholas-Tritsaris&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
