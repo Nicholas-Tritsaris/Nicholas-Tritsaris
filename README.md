@@ -24,6 +24,7 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 ## Projects Currently Working On
 
 - **🔗 Nicholas-Tritsaris** — No description provided.
+- **🔗 bubble-network** — A full-stack fictional recreation of the Bubble B-Bot network from Ron's Gone Wrong, including the cloud platform, B-Bot device simulation, social graph, realtime networking, firmware system, and network incident simulator.
 - **🔗 Docs** — No description provided.
 - **🔗 Nicholas-Tritsaris.github.io** — No description provided.
 - **🔗 Wikimedia** — No description provided.
@@ -32,7 +33,11 @@ I build public tools, documentation hubs, and exploratory projects that sit betw
 - **🔗 register** — Grab your own sweet-looking '.is-a.dev' subdomain.
 - **🔗 Hub** — No description provided.
 - **🔗 hacker-challenge** — Use your web inspector to hack your way through a series of challenges.
-- **🔗 Design-System** — No description provided.
+
+## Programming Languages Used
+
+![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square) ![C#](https://img.shields.io/badge/-C#-blue?style=flat-square) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat-square) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square) ![Dockerfile](https://img.shields.io/badge/-Dockerfile-blue?style=flat-square)
+
 
 ## Programming Languages Used
 
